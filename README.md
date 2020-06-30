@@ -4,7 +4,7 @@ Repository with prompt and code for Module 1, Challenge 7: Intersection.
 ## Prompt
 You're a detective who's working on a series of criminal cases. You have a sneaking suspicion that a current case might be related to a cold case that happened 10 years ago.
 
-All of the information and clues have been boiled down to a list of key terms that summarize each crime scene. If both crime scenes have at least 3 elements in common, then you have enough evidence to re-open the cold case. If any crime scene has fewer than 3 pieces of evidence, then it's enough if all of their evidence matches.
+Each crime has had all of its evidence and clues boiled down to a list of key terms. If both crimes have at least 3 elements in common, then you have enough evidence to re-open the cold case. If any crime scene has fewer than 3 pieces of evidence, then it's enough if all of their evidence matches.
 
 ### Requirements
 
