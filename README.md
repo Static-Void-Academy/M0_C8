@@ -1,5 +1,5 @@
-# M0_C7 - Intersection
-Repository with prompt and code for Module 1, Challenge 7: Intersection.
+# M0_C8 - Intersection
+Repository with prompt and code for Module 1, Challenge 8: Intersection.
 
 ## Prompt
 You're a detective who's working on a series of criminal cases. You have a sneaking suspicion that a current case might be related to a cold case that happened 10 years ago.
