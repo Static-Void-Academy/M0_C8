@@ -48,7 +48,7 @@ class TestSecuritySystem(unittest.TestCase):
     def test_small_and_large_no_match(self):
         """Tests one small, one large set without matches"""
         c1 = ['cutting board', 'kitchen', 'bathroom']
-        c2 = ['bathroom']
+        c2 = ['veranda']
         actual = check_overlap(c1, c2)
         self.assertEqual(False, actual)
 
